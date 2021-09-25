@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.ListIterator;
 
 public class q_prac {
-
+	//dsd
 	public static void main(String[] args) {
 		q_prac ex = new q_prac();
 		ex.checkLinkedList();
